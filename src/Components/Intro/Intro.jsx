@@ -18,14 +18,10 @@ const Intro = () => {
             <div className="i-name">
                 <span>Hihi! I Am </span>
                 <span>Settawut Thaingthat</span>
-                <span>I have an interest in atomation tester
- and cyber security. I love check
-for a smart contract. I had my
-information webpage project on
-Github. I am on a cross-work path but I have a
+                <span>I have an interest in automation tester
+ and cyber security. I am on a cross-work path but I have a
 strong passion for the tech industry.
-I dreamed to build something that useful
-for people.</span>
+I dreamed to build something that useful for people.</span>
             </div>
             <button className="button i-button">Hire Me</button>
         <div className="i-icons">

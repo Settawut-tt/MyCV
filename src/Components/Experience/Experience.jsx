@@ -9,11 +9,14 @@ const Experience = () => {
   <div className="e-left">
     <div className="experience">
       <h4>Work Experience</h4>
-      <ul style={{listStyleType:'none'}}>PI R Engineering
+      <ul style={{listStyleType:'none'}}>PI R Engineering (for 5 month)
           <li>Position:Mechanical Engineering</li>
           <li>-Design an air conditioner system</li>
           <li>-Management supplies and control
 construction</li>
+      </ul>
+      <ul style={{listStyleType:'none'}}>Now
+          <li>I am Grab Driver.</li>
       </ul>
     </div>
   </div>
