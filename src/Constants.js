@@ -31,13 +31,6 @@ export const PROJECTS = [
     description: "Team collaboration mobile app and online services like slack Message people and groups without sharing phone numbers, communicate with managers and staff all in one place. and discuss or assign tasks to get stuff done",
     url: "https://play.google.com/store/apps/details?id=com.fomo.android.app",
   },
-  {
-    image: AUTOMATION,
-    name: "3automation.com (RPA)",
-    technologyUsed: "ReactJs, Typescript, Redux",
-    description: "The next-gen Robotic Process Automation (#RPA) platform for retail and telecom domains. The ultimate automation platform for your Shopify, Email, E- commerce shop",
-    url: "https://www.3automation.com/",
-  },
 
 ];
 
